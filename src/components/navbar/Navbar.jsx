@@ -13,7 +13,7 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Animated Website with React & Framer Motion
+          Animated Portfolio Website with React & Framer Motion
         </motion.span>
         <div className="social">
           <a href="#">
