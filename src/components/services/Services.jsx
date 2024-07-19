@@ -62,12 +62,10 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Software Development</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
-          </p>
+          <li>Conceptualization and Planning</li>
+          <li>Requirements Gathering</li>
+          <li>Design & Development</li>
+          <li>Testing & Optimization</li>
           <button>Go</button>
         </motion.div>
         <motion.div
@@ -75,12 +73,10 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Mobile Development</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
-          </p>
+          <li>Digitalize your services</li>
+          <li>Create interactive apps</li>
+          <li>Accessible in any devices</li>
+          <li>Engage a social network</li>
           <button>Go</button>
         </motion.div>
         <motion.div
@@ -88,12 +84,10 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Web Development</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
-          </p>
+          <li>Front/Back-end Development</li>
+          <li>Full Stack Development</li>
+          <li>Web & Mobile Responsive Design</li>
+          <li>Embedded & Security</li>
           <button>Go</button>
         </motion.div>
         <motion.div
@@ -101,12 +95,10 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Enterprise Application</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
-          </p>
+          <li>CRM Software</li>
+          <li>ERP Software</li>
+          <li>Business Intelligence Software</li>
+          <li>Accounting and Payroll Software</li>
           <button>Go</button>
         </motion.div>
       </motion.div>

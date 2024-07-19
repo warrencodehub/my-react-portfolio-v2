@@ -96,7 +96,7 @@
     }
   }
   .listContainer {
-    flex: 2;
+    flex: 3;
     display: flex;
     max-width: 1566px;
     margin: auto;
@@ -104,6 +104,14 @@
     @include mobile {
       flex-direction: column;
       width: 100%;
+    }
+
+    li {
+      width: 300px;
+      font-weight: 200;
+      font-size: 18px;
+      color: gray;
+      text-align: left;
     }
 
     .box {
