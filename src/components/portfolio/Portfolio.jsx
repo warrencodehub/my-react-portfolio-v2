@@ -19,17 +19,17 @@ const items = [
   },
   {
     id: 3,
-    title: "React JS Resume App",
-    img: "./resume.png",
+    title: "EClaims Philhealth Integration System",
+    img: "./eclaims.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    demo: "https://warrencodehub.github.io/reactpro/",
+    demo: "#",
   },
   {
     id: 4,
-    title: "React Admin Dashboard",
+    title: "Noise Detection System",
     img: "./dashboard.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    demo: "https://warrencodehub.github.io/react-admin/",
+    demo: "#",
   },
 ];
 

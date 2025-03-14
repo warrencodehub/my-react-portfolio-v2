@@ -53,7 +53,7 @@ const Services = () => {
             <motion.b whileHover={{ color: "orange" }}>For Your</motion.b>{" "}
             Business.
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>My Tech Stack?</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -62,43 +62,31 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Software Development</h2>
-          <li>Conceptualization and Planning</li>
-          <li>Requirements Gathering</li>
-          <li>Design & Development</li>
-          <li>Testing & Optimization</li>
+          <li>HTML, CSS, Javascript, React</li>
+          <li>ASP.NET MVC & C#</li>
+          <li>PHP Laravel Framework</li>
+          <li>Thinkwise Low-code Platform</li>
           <button>Go</button>
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Mobile Development</h2>
-          <li>Digitalize your services</li>
-          <li>Create interactive apps</li>
-          <li>Accessible in any devices</li>
-          <li>Engage a social network</li>
+          <h2>Database Development</h2>
+          <li>Microsoft SQL Server</li>
+          <li>MySQL</li>
+          <li>Firebase Database</li>
           <button>Go</button>
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Web Development</h2>
-          <li>Front/Back-end Development</li>
-          <li>Full Stack Development</li>
-          <li>Web & Mobile Responsive Design</li>
-          <li>Embedded & Security</li>
-          <button>Go</button>
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>Enterprise Application</h2>
-          <li>CRM Software</li>
-          <li>ERP Software</li>
-          <li>Business Intelligence Software</li>
-          <li>Accounting and Payroll Software</li>
+          <h2>Software & AI Tools</h2>
+          <li>Microsoft Visual Studio</li>
+          <li>Visual Studio Code</li>
+          <li>Git</li>
+          <li>Claude, Gpt & DeepSeek</li>
           <button>Go</button>
         </motion.div>
       </motion.div>
