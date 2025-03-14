@@ -21,7 +21,7 @@ const items = [
     id: 3,
     title: "EClaims Philhealth Integration System",
     img: "./eclaims.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Lorem ipsum tet sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo: "#",
   },
   {
