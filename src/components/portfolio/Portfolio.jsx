@@ -7,7 +7,7 @@ const items = [
     id: 1,
     title: "React Firebase Chat",
     img: "./react-firebase-chat.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo test corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo tes corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo: "https://warrencodehub.github.io/react-firebase-chat/",
   },
   {

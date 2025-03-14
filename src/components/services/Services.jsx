@@ -37,7 +37,7 @@ const Services = () => {
       <motion.div className="textContainer" variants={variants}>
         <p>
           I focus on helping your brand grow
-          <br /> and move test
+          <br /> and move forward
         </p>
         <hr />
       </motion.div>
