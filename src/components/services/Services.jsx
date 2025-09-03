@@ -64,7 +64,7 @@ const Services = () => {
           <h2>Software Development</h2>
           <li>HTML, CSS, Javascript, React</li>
           <li>ASP.NET MVC & C#</li>
-          <li>PHP Laravel Framework</li>
+          <li>REST API (Fundamentals)</li>
           <li>Thinkwise Low-code Platform</li>
           <button>Go</button>
         </motion.div>
